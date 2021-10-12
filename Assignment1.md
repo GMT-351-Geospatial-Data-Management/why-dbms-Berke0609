@@ -9,13 +9,13 @@
 **What are the advantages / disadvantages of using a DBMS (and specifically Postgres) compared to a spreadsheet (specifically MS Excel)**
 
 **Advantages**
--Data quality checks
--Integration of data
--Resource efficiency
--User efficiency
--Cost efficiency
--Growth Efficiency
+- Data quality checks
+- Integration of data
+- Resource efficiency
+- User efficiency
+- Cost efficiency
+- Growth Efficiency
 
 **Disadvantages**
--More costly
--Simple data editing and choosing
+- More costly
+- Simple data editing and choosing
