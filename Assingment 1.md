@@ -17,13 +17,13 @@
  Efficient data handling. (MySQL, PostgreSQL, Microsoft Access.)     
 
 **Spreadsheet**
-  It is an electronic graph sheets with rows and columns.
-  It stores and analyzes the data.
-  It provides support for complex calculations.
-  Spreadsheets hold limited amount of information.
-  It is more towards calculations.
-  It can do simple data organizing and selecting.
-  Inefficient data handling. ( Microsoft Excel, Lotus 1-2-3)
+It is an electronic graph sheets with rows and columns.
+It stores and analyzes the data.
+It provides support for complex calculations.
+Spreadsheets hold limited amount of information.
+It is more towards calculations.
+It can do simple data organizing and selecting.
+Inefficient data handling. ( Microsoft Excel, Lotus 1-2-3)
 
 
 
