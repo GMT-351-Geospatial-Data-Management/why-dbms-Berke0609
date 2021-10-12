@@ -15,8 +15,9 @@
  It is more towards the linkage and organization of data.             
  It can do simple calculations.                                       
  Efficient data handling. (MySQL, PostgreSQL, Microsoft Access.)     
- 
-  **Spreadsheet**
+
+
+**Spreadsheet**
   It is an electronic graph sheets with rows and columns.
   It stores and analyzes the data.
   It provides support for complex calculations.
@@ -24,3 +25,12 @@
   It is more towards calculations.
   It can do simple data organizing and selecting.
   Inefficient data handling. ( Microsoft Excel, Lotus 1-2-3)
+
+
+
+
+
+
+
+
+
