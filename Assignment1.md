@@ -15,6 +15,7 @@ Resource efficiency
 User efficiency
 Cost efficiency
 Growth Efficiency
+
 **Disadvantages**
 More costly
 Simple data editing and choosing
