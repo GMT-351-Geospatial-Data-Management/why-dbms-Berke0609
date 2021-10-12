@@ -6,7 +6,7 @@
  On the other hand, since the data in databases is unlimited and easily accessible, we can save time and access information more easily.
 
 
- **What are the advantages / disadvantages of using a DBMS (and specifically Postgres) compared to a spreadsheet (specifically MS Excel)**
+**What are the advantages / disadvantages of using a DBMS (and specifically Postgres) compared to a spreadsheet (specifically MS Excel)**
 
 **Advantages**
 -Data quality checks
