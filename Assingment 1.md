@@ -8,7 +8,7 @@
  
  **What are the advantages / disadvantages of using a DBMS (and specifically Postgres) compared to a spreadsheet (specifically MS Excel)**
       
-                 **DBMS**                                                   
+ **DBMS**                                                   
  It is a collection of inter-related data.                            
  It stores and retrieve the data.                                     
  It provides support for data organizing and selecting.               
@@ -16,7 +16,7 @@
  It can do simple calculations.                                       
  Efficient data handling. (MySQL, PostgreSQL, Microsoft Access.)     
  
-              **Spreadsheet**
+  **Spreadsheet**
   It is an electronic graph sheets with rows and columns.
   It stores and analyzes the data.
   It provides support for complex calculations.
